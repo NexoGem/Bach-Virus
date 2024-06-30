@@ -8,7 +8,7 @@
 Create amazing yet Deadly viruses with small yet deadly codes. These can be created with just Notepad, and even be downloaded from here.
 The viruses here are mostly very dangerous.
 
-Compiled and Edited by [SparkScratch-P](https://sparkscratch-p.github.io/).
+Compiled and Edited by [Nexogem]
 
 
 ---
